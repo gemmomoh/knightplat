@@ -1,0 +1,22 @@
+[
+	{
+		"title": "dialogue",
+		"tags": "",
+		"body": "<<avatar 0>>Thank you for saving my flock, Ser Jeffery! Please take this Wool Pouch for your bravery!",
+		"position": {
+			"x": -12138,
+			"y": 1068
+		},
+		"colorID": 3
+	},
+	{
+		"title": "princess",
+		"tags": "",
+		"body": "<<avatar 0>>Our Princess has been kidnapped by Dragool the Dastardly. Please save her! But first you must travel through the Dark Forest where Orcs and Kongz lie in wait",
+		"position": {
+			"x": -12432,
+			"y": 1060
+		},
+		"colorID": 0
+	}
+]

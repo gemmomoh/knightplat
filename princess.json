@@ -1,0 +1,22 @@
+[
+	{
+		"title": "dialogue",
+		"tags": "",
+		"body": "<<avatar 0>>You are my hero Ser Jeffery! You have proven yourself worth...will you help me get our Sacred Scroll back to safety at the kingdom?",
+		"position": {
+			"x": -12098,
+			"y": 1062
+		},
+		"colorID": 3
+	},
+	{
+		"title": "princess",
+		"tags": "",
+		"body": "<<avatar 0>>What's your wallet address for whitelist?",
+		"position": {
+			"x": -12432,
+			"y": 1060
+		},
+		"colorID": 0
+	}
+]
